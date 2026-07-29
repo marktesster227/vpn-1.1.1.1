@@ -2,6 +2,8 @@
 
 **Безопасный, быстрый и приватный VPN-клиент с шифрованием трафика и DNS**
 
+**ДОСТУПЕН В APP STORE, GOOGLE PLAY, И ДАЛЬНЕЙШАЯ ИНФОРМАЦИЯ ДОСТУПНА НА САЙТЕ https://one.one.one.one**
+
 <p align="center">
   <img src="https://img.shields.io/badge/version-2026.6.880.0-blue?style=for-the-badge" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS-lightgrey?style=for-the-badge" alt="platform">
