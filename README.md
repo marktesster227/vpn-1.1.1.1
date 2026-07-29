@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/version-2026.6.880.0-blue?style=for-the-badge" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20iOS-lightgrey?style=for-the-badge" alt="platform">
   <a href="https://github.com/marktesster227/cloudflare-warp-client/releases">
-    <img src="https://img.shields.io/github/v/release/marktesster227/cloudflare-warp-client?style=for-the-badge&color=orange" alt="release">
+    <img src="https://img.shields.io/github/v/release/marktesster227/VPN-1.1.1.1?style=for-the-badge&color=orange" alt="release">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license">
